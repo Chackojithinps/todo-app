@@ -1,0 +1,63 @@
+.container{
+    background-color: cadetblue;
+    width: 70vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 55px;
+    font-weight: bold;
+    border-radius: 10px;
+    min-height: auto;
+    padding-bottom: 12px;
+}
+.mainContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.title{
+    font-size: 30px;
+}
+input.input {
+    border: none;
+    padding: 10px;
+    border-radius: 17px;
+    width: 700px;
+    outline: none;
+    font-size: 17px;
+    padding-left: 18px;
+    font-weight: bold;
+}
+
+button.btn1 {
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 6px;
+    width: 63px;
+    font-weight: bold;
+}
+.titleList {
+    display: flex;
+    width: 772px;
+    height: 30px
+px
+;
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    background: aquamarine;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 12px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    justify-content: space-between;
+    margin-right: 3px;
+}
+button.delteBtn {
+    height: 22px;
+    border-radius: 4px;
+    background: yellow;
+}
